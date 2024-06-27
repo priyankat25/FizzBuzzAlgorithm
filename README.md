@@ -8,11 +8,11 @@ Examples:
 Input: 15
 Output: FizzBuzz
 
-Input: 8
-Output: 8   
-
 Input: 9
 Output: Fizz
 
 Input: 10
 Output: Buzz
+
+Input: 8
+Output: 8   
